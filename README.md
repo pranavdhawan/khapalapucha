@@ -21,3 +21,4 @@ Consolidating microcontrollers and planting is the idea behind the project. We f
 - TIP120 transistor (or a mosfet or relay) for switching on the solenoid
 - Enclosure
 
+### Code Structure
